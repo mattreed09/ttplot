@@ -1,0 +1,17 @@
+Package: TTplot
+Type: Package
+Title: adds a custom TT theme to GGplot plots
+Version: 0.1.0
+Author: Matt Reed
+Maintainer: Matt Reed <matt.reed@triptease.com>
+Description: Adds a custom color palette as well as a custom theme to be added to plots.
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 6.1.1
+Imports: 
+    ggplot2,
+    purrr
